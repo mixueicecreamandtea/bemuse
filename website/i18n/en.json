@@ -10,16 +10,16 @@
         "sidebar_label": "Architecture"
       },
       "bemusepack": {
-        "title": "The .bemuse File Format",
-        "sidebar_label": ".bemuse File Format"
+        "title": ".bemuse 文件格式",
+        "sidebar_label": ".bemuse 文件格"
       },
       "bms-extensions": {
         "title": "Bemuse's BMS Extensions",
         "sidebar_label": "BMS Extensions"
       },
       "bms-support": {
-        "title": "BMS Support in Bemuse",
-        "sidebar_label": "BMS Support"
+        "title": "Bemuse的BMS支持",
+        "sidebar_label": "BMS支持"
       },
       "colors": {
         "title": "Colors"
