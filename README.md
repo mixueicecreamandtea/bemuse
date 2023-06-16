@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://bemuse.ninja/"><img src="website/static/img/logo.png" alt="Bemuse 〜beat☆music☆sequence〜" height="162" /></a></h1>
 
 <h2 align="center">open-source web-based online rhythm game</h2>
-<h3 href="https://github.com/mixueicecreamandtea/bemuse/blob/master/website/i18n/en.json">json<h3>
+<h3 href="https://github.com/mixueicecreamandtea/bemuse/blob/master/website/i18n/en.json">json</h3>a>
 <p align="center">
   <a href="https://circleci.com/gh/bemusic/bemuse"><img src="https://img.shields.io/circleci/project/bemusic/bemuse/master.svg?style=flat" alt="CircleCI"></a>
   <a href="https://codecov.io/gh/bemusic/bemuse"><img src="https://codecov.io/gh/bemusic/bemuse/branch/master/graph/badge.svg" alt="Codecov" /></a>
