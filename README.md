@@ -118,6 +118,8 @@ It is recommended to play this game on Google Chrome.
 Install [Node.js](https://nodejs.org/en/)
 
 ```
+#
+$ npm config set registry https://registry.npmmirror.com
 # Install Rush
 npm install --global @microsoft/rush
 
