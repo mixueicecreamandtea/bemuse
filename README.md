@@ -120,6 +120,10 @@ Install [Node.js](https://nodejs.org/en/)
 ```
 #
 $ npm config set registry https://registry.npmmirror.com
+#
+npm install -g PUPPETEER
+#
+npm update --force --PUPPETEER_SKIP_DOWNLOAD
 # Install Rush
 npm install --global @microsoft/rush
 
